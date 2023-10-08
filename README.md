@@ -7,7 +7,7 @@
 ### Project Steps
 > - 1. Import libraries.
 > - 2. Load DataSet.
->   3. Overview about the Data.
+> - 3. Overview about the Data.
 > - 4. EDA & Data Analysis.
 > - 4.1 Univariate analysis.
 > - 4.1.1 Numerical Columns.
