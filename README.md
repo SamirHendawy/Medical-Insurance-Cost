@@ -26,6 +26,17 @@
 > - 7.2.1 Random Forest Hyperparameter Tuning Using RandomSearch.
 > - 8. Create a Scatter Plot with a Regression Line.
 
+### Conclusion
+Age : 
+- in the data range from 14 to 64
+- the high density of people in range 18 to 23
+bmi :
+- the mean of bmi = 31
+- Normal weight: 17.0%
+- Overweight: 82.0%
+  
+
+
 
 
 
