@@ -1,5 +1,5 @@
 # Medical-Insurance-Cost
-**Medical Insurance Cost  EDA &amp; Prediction with Accuracy 90%
+**Medical Insurance Cost  EDA &amp; Prediction with Accuracy 90%**
 
 ### Dataset
 > - From Kaggle : https://www.kaggle.com/datasets/mirichoi0218/insurance
@@ -24,7 +24,9 @@
 > - Random Forest Algorithm.
 > - **I will choose a Random Forest model to complete the project and I will tune it.**
 > - 7.2.1 Random Forest Hyperparameter Tuning Using RandomSearch.
-> - 8. Create a Scatter Plot with a Regression Line
+> - 8. Create a Scatter Plot with a Regression Line.
+
+
 
 
 
