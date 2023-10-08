@@ -27,13 +27,18 @@
 > - 8. Create a Scatter Plot with a Regression Line.
 
 ### Conclusion
-Age : 
-- in the data range from 14 to 64
-- the high density of people in range 18 to 23
-bmi :
-- the mean of bmi = 31
-- Normal weight: 17.0%
-- Overweight: 82.0%
+- BMI : the distribution is normal distribution.
+- From the describtion of data, the BMI range is 18.5 to 24.9
+- There are a large number of people who are overweight.
+- Most people in the data do not have children.
+- There are outliers in the charges column.
+- Most people's Insurance charges range from 1122 to 16600
+- Distribute the regions in the data almost evenly.
+- The insurance charges of smoker peoples is higher than non-smoker.
+- The correlation pattern of people who smoke is different from that of non-smokers.
+- The Southeast has the highest insurance charges, why ? -_- This may be due to an increase in the number of smokers or increased BMI levels.
+- R-squared (R^2) For Testing Data Using Random Forest: 90.0 %
+<img src="Actual vs. Predicted.png">
   
 
 
